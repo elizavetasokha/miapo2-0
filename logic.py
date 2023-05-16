@@ -5,3 +5,12 @@ welcome()
 #и на пляжduygf
 #dfgdfgd
 #dfdf
+#ffddfdf
+#
+defgd
+DeprecationWarninggd
+
+gfd
+FloatingPointError
+gdf
+
