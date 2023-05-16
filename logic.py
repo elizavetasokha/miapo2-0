@@ -1,7 +1,7 @@
-# Основная логика приложения
+# Основная логика приложенияssssssssssssss
 welcome()
-#хочу шаурмы
-#и коллы
-#и на пляжduygf
-#dfgdfgd
-#dfdf
+#хочу шаурмыsssssssssssssssssss
+#и коллы ssssssssssssssssss
+#и на пляжduygft
+#dfgdfgdssssssssssss
+#dfdfsssssssssssssss
