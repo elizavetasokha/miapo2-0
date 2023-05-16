@@ -1,0 +1,18 @@
+import random
+def guess_number():
+    number = generate_number()
+    attempts = 0
+
+    print("Я загадал число от 1 до 100. Попробуйте угадать его!")
+
+    while True:
+        guess = int(input("Введите вашу догадку: "))
+        attempts += 1
+
+        if guess < number:
+            print("Слишком маленькое число. Попробуйте еще раз!")
+        elif guess > number:
+            print("Слишком большое число. Попробуйте еще раз!")
+        else:
+            print(f"Поздравляю! Вы угадали число {number} за {attempts} попыток!")
+            break
